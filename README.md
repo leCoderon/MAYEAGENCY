@@ -15,7 +15,7 @@ Explorez notre expertise numérique à travers ce projet, mettant en lumière no
 ## Découvrez Notre Site
 
 Pour une plongée interactive dans l'univers de MAYEAGENCY, visitez notre [site web](https://lecoderon.github.io/MAYEAGENCY/). Nous sommes impatients de partager notre passion pour l'innovation numérique avec vous !
-![preview img](/preview_.png)
+![preview img](/preview.png)
 ## Comment Contribuer
 
 1. **Fork :** Fork ce dépôt sur GitHub.
